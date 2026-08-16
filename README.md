@@ -23,7 +23,7 @@
 
 ```bash
 pkg update && pkg install python git -y
-git clone [https://github.com/cocofembo-glitch/TBF-SysAdmin.git](https://github.com/cocofembo-glitch/TBF-SysAdmin.git)
+git clone https://github.com/cocofembo-glitch/TBF-SysAdmin.git (https://github.com/cocofembo-glitch/TBF-SysAdmin.git)
 cd TBF-SysAdmin
 pip install -r requirements.txt
 python3 tbf_control.py
